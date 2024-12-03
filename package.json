@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "express": "^4.21.1",
+    "fs": "^0.0.1-security",
+    "node-cron": "^3.0.3",
+    "ws": "^8.18.0"
+  }
+}
